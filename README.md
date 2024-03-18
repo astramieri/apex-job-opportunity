@@ -11,9 +11,9 @@ Il mio obiettivo è di creare un team di persone con l'ambizione di realizzare l
 Se non hai idea di cosa sto parlando 🙈, fai un tour sulla [pagina ufficiale Oracle](https://apex.oracle.com/it/platform/)! 
 
 Che profilo di persona sto cercando:
-- 👩‍🚀 ottime capacità analitiche (sul serio, come andavi agli esami?)
-- 👨‍🔬 conoscenza dei DB relazionali (sì, sono ancora utilizzati!)
-- 🧑‍💻 esperienza (anche minima) in ambito sviluppo web (vabbeh, le basi proprio)
+- ottime capacità analitiche (sul serio, come andavi agli esami?)
+- conoscenza dei DB relazionali (sì, sono ancora utilizzati!)
+- esperienza (anche minima) in ambito sviluppo web (vabbeh, le basi proprio)
 
 Cosa offro:
 - 👨‍🎓 periodo di formazione iniziale
