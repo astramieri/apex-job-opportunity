@@ -2,7 +2,7 @@
  
 ### Ciao 👋, 
 
-sono un professionista freelance con più di 15 anni di esperienza in ambito analisi dati e sviluppo su **database Oracle**.
+sono un professionista *freelance* con più di 15 anni di esperienza in ambito analisi dati e sviluppo su **database Oracle**.
 
 Sono alla ricerca di profili junior (anche alla prima esperienza) da formare e far crescere sulla **piattaforma di sviluppo low-code Oracle APEX**.
 
