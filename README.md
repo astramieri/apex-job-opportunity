@@ -23,9 +23,6 @@ Se non hai idea di cosa sto parlando 🙈, fai un tour sulla [pagina ufficiale O
 
 ### Se pensi di essere la persona giusta, scrivimi per fissare una call!
 
-📫 angelo.stramieri@gmail.com
-
-
 
 
 
