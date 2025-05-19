@@ -2,11 +2,11 @@
  
 ### Ciao 👋, 
 
-siamo uno studio di ingegneria con più di 20 anni di esperienza in ambito analisi dati e sviluppo su **database Oracle**.
+siamo uno studio di ingegneria con più di 20 anni di esperienza in ambito analisi dati e sviluppo su **Database Oracle**.
 
-Siamo alla ricerca di profili junior (anche alla prima esperienza) da formare e far crescere sulla **piattaforma di sviluppo low-code Oracle APEX**.
+Siamo alla ricerca di profili junior (anche alla prima esperienza!) da formare e far crescere sulla **piattaforma di sviluppo low-code Oracle APEX**.
 
-Il nostro obiettivo è di creare un team di persone con l'ambizione di realizzare la **prima start-up italiana** 🌱 interamente focalizzata nel fornire soluzioni con Oracle APEX.
+Il nostro obiettivo è di creare un team di persone con l'ambizione di realizzare la **prima azienda italiana** 🌱 interamente focalizzata nel fornire soluzioni con Oracle APEX.
 
 Se non hai idea di cosa si stia parlando 🙈, fai un tour sulla [pagina ufficiale Oracle](https://apex.oracle.com/it/platform/)! 
 
