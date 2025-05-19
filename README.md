@@ -21,7 +21,7 @@ Se non hai idea di cosa si stia parlando 🙈, fai un tour sulla [pagina ufficia
 - 💰 esperienza part-time retribuita
 - 🤩 partecipazione alla creazione di una start-up
 
-### Se pensi di essere la persona giusta, scrivi a questo [indirizzo](sviluppo@capancioni.com).
+### Se pensi di essere la persona giusta, scrivi a questo [indirizzo](mailto:sviluppo@capancioni.com).
 
 
 
